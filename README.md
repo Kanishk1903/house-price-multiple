@@ -1,1 +1,2 @@
 # house-price-multiple
+This project implements a Multiple Linear Regression model to analyze the relationship between multiple independent variables and a dependent variable. It includes data preprocessing, model training, evaluation, and visualization to demonstrate how different features impact the prediction outcome. Built using Python and popular libraries like NumPy, Pandas, and Scikit-learn.
